@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haribooshan
 - 👀 I’m interested in science and tech especially, the computer related ones.  
-- 🌱 I’m currently learning some basic machine learning and data structures & alogirthms in python  
+- 🌱 I’m currently learning some basic machine learning and data structures & algorithms in python  
 - 💞️ I’m looking to collaborate on any computer / tech / science related stuff.
 - 📫 How to reach me : mail me at haribooshan2003@gmail.com .
 
